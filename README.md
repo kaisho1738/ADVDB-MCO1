@@ -10,8 +10,8 @@ Loads the 2023 Dutch railway services dataset (about 21.2 million stops) into a 
 |---|---|
 | `etl.py` | The ETL script (extract, transform, load) |
 | `warehouse.sql` (the CREATE TABLE script) | Creates the `railway_dw` database and the four warehouse tables |
-| `services.sql` (zipped) | Dump of the raw `services` table (about 3 GB unzipped) |
-| Use drive link to download: services.sql https://drive.google.com/file/d/13dxlelSzBu-MXMng0MiW4azh4V1uFark/view?usp=sharing
+| `services.sql` (zipped found in the attached gdrive link) | Dump of the raw `services` table (about 3 GB unzipped) |
+| Use drive link to download: | services.sql https://drive.google.com/file/d/13dxlelSzBu-MXMng0MiW4azh4V1uFark/view?usp=sharing |
 
 ## Requirements
 
